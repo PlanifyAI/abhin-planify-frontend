@@ -8,3 +8,6 @@ git add .
 git commit -m "msg"
 git push
 git push --set-upstream origin main
+
+# material ui 
+npm install @mui/material @emotion/react @emotion/styled
